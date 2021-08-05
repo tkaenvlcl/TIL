@@ -216,7 +216,7 @@ git restore filename
 ### 3.1 Showing remotes
 
 ```
-git remote b  
+git remote  
 
 # Show URLs
 git remote -v
